@@ -1,4 +1,4 @@
-package day04_XpathVeCSSSelector;
+package day04_XpathVeCssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -37,9 +37,8 @@ public class C01_Xpath {
             System.out.println("Add/remove yazi testi FAILED");
         }
 
-
-
         Thread.sleep(3000);
+        driver.quit();
       //  driver.close();
     }
 

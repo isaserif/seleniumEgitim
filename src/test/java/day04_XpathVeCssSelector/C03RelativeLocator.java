@@ -1,4 +1,4 @@
-package day04_XpathVeCSSSelector;
+package day04_XpathVeCssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
